@@ -27,16 +27,13 @@
 ### 📡 Wi-Fi Authentication System
 - Secure login system for Wi-Fi users & admin dashboard  
 - Built with Laravel + MySQL  
-📸 *(Add screenshot here)*
 
 ### ☕ Brooklyn Warehouse Coffee Management System
 - POS | Reservation | Loyalty | Marketing | Chatbot  
-📸 *(Add screenshot here)*
 
 ### 📊 Client Behavior Analyzer
 - Data upload, analytics, and visualization dashboard  
 - Built using CodeIgniter 4  
-📸 *(Add screenshot here)*
 
 ---
 
