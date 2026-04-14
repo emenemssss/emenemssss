@@ -1,44 +1,67 @@
-## Hi there 👋
+## Hi there 👋 I'm Emman!
 
-<!--
-**emenemssss/emenemssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m currently working on a **Laravel-based Wi-Fi Authentication System** with admin and user dashboards
-- 🌱 I’m currently learning **advanced Laravel development, system integration, and deployment strategies**
-- 👯 I’m looking to collaborate on **web development projects, especially PHP/Laravel-based systems**
-- 🤔 I’m looking for help with **scaling web applications and improving system security**
-- 💬 Ask me about **Laravel, PHP, MySQL, Bootstrap, and full-stack academic projects**
-- 📫 How to reach me: **https://www.linkedin.com/in/jsalvador-almera/**
+💻 BSIT Student | Aspiring Full-Stack Developer  
+🚀 Passionate about building real-world systems using Laravel & PHP  
 
 ---
 
-### 🚀 Projects I'm Working On
-- 📡 **Wi-Fi Authentication System** (Laravel + MySQL)
+### 🔥 About Me
+- 🔭 Currently building a **Wi-Fi Authentication System (Laravel + MySQL)**
+- 🌱 Learning **advanced backend development & deployment strategies**
+- 👯 Open to collaborating on **web-based systems & full-stack projects**
+- 💬 Ask me about **Laravel, PHP, MySQL, Bootstrap, Tailwind**
+- ⚡ I turn academic projects into **real-world usable systems**
+
+---
+
+### 🚀 Featured Projects
+- 📡 **Wi-Fi Authentication System**
 - ☕ **Brooklyn Warehouse Coffee Management System**
-  - POS System  
-  - Reservation System  
-  - Loyalty & Marketing Module  
-  - Chatbot Integration  
+  - POS, Reservation, Loyalty, Marketing, Chatbot
 - 📊 **Client Behavior Analyzer (CodeIgniter 4)**
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 **Languages:** PHP, JavaScript, HTML, CSS
-- ⚙️ **Frameworks:** Laravel, CodeIgniter 4
-- 🗄️ **Database:** MySQL
-- 🎨 **Frontend:** Bootstrap, Tailwind CSS
-- 🔧 **Tools:** Git, Laragon, XAMPP
+
+#### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
-### 📈 Goals
-- Build scalable and secure web applications  
-- Improve UI/UX design skills  
-- Gain real-world industry experience in software development  
+### 📊 GitHub Stats
+![Emman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emenemssss&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emenemssss&layout=compact&theme=tokyonight)
 
 ---
 
-### ⚡ Fun Fact
-- I enjoy turning academic projects into **real-world usable systems**
+### 🎯 Goals
+- 🚀 Become a **professional full-stack developer**
+- 🔐 Build **secure and scalable systems**
+- 🌐 Contribute to **real-world impactful projects**
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: jsalvador.almera@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/jsalvador-almera
+
+---
+
+⭐ *"Building systems that solve real problems."*
