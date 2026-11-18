@@ -69,7 +69,7 @@ I am a Software Engineer based in Metro Manila, specializing in enterprise appli
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/jsalvador-almera](https://www.linkedin.com/in/jsalvador-almera)
-- 🌐 **Portfolio:** [jemmanuelalmera.dev](https://jemmanuelalmera.dev) *(Vercel)*
+- 🌐 **Portfolio:** [jemmanuelalmera.dev](https://j-emmanuel-salvador-l-almera.vercel.app/)
 - 📧 **Email:** jsalvador.almera@gmail.com
 
 ---
